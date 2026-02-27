@@ -36,3 +36,14 @@ body {
 .main-container .right-side {
   flex: 1 1 0px;
 }
+.action_form {
+  display: flex;
+}
+.action_form .form-left {
+  display: flex;
+  flex-direction: column;
+}
+.action_form .form-right {
+  display: flex;
+  flex-direction: column;
+}
